@@ -1,0 +1,211 @@
+[
+        {
+            "question": "Which of the following statements describe a valid test objective?",
+            "answers": ["To prove that there are no unfixed defects in the system under test", 
+            "To prove that there will be no failures after the implementation of the system into production", 
+            "To reduce the risk level of the test object and to build confidence in the quality level", 
+            "To verify that there are no untested combinations of inputs"],
+            "correct": [2]
+        },
+        {
+            "question": "Which of the following options shows an example of test activities that contribute to success? ",
+            "answers": ["Having testers involved during various software development lifecycle (SDLC) activities will help to detect defects in work products", 
+            "Testers try not to disturb the developers while coding, so that the developers write better code", 
+            "Testers collaborating with end users help to improve the quality of defect reports during component integration and system testing ", 
+            "Certified testers will design much better test cases than non-certified testers"],
+            "correct": [0]
+        },
+        {   "question": "You have been assigned as a tester to a team producing a new system incrementally. You have noticed that no changes have been made to the existing regression test cases for several iterations and no new regression defects were identified. Your manager is happy, but you are not. Which testing principle explains your skepticism?",
+            "answers": ["Tests wear out", "Absence-of-errors fallacy ", "Defects cluster together", "Exhaustive testing is impossible"],
+            "correct": [0]
+        },
+        {
+            "question": "You work in a team that develops a mobile application for food ordering. In the current iteration the team decided to implement the payment functionality. Which of the following activities is a part of test analysis? ",
+            "answers":["Estimating that testing the integration with the payment service will take 8 person-days", "Deciding that the team should test if it is possible to properly share payment between many users", "Using boundary value analysis (BVA) to derive the test data for the test cases that check the correct payment processing for the minimum allowed amount to be paid ", "Analyzing the discrepancy between the actual result and expected result after executing a test case that checks the process of payment with a credit card, and reporting a defect"],
+            "correct":[1]
+        },
+        {
+            "question": "Which of the following factors have a SIGNIFICANT influence on the test approach? ",
+            "image": "q05.png",
+            "answers": ["i, ii", "i, iii, iv", "ii, iv, v", "iii, v"],
+            "correct": [1]
+        },
+        {
+            "question": "Which TWO of the following tasks belong MAINLY to a testing role?",
+            "answers": ["Configure test environments", "Maintain the product backlog ", "Design solutions to new requirements", "Create the test plan", "Analyze the test basis"],
+            "correct": [0, 3]
+        },
+        {
+            "question": "Which of the following skills (i-v) are the MOST important skills of a tester?",
+            "image": "q07.png",
+            "answers": ["ii and iv are important", "i, iii and v are important", "i, ii and v are important", " iii and iv are important"],
+            "correct": [1]
+        },
+        {
+            "question": "How is the whole team approach present in the interactions between testers and business representatives?",
+            "answers": ["Business representatives decide on test automation approaches", "Testers help business representatives to define test strategy", "Business representatives are not part of the whole team approach", "Testers help business representatives to create suitable acceptance tests"],
+            "correct": [3]
+        },
+        {
+            "question": "Consider the following rule: “for every SDLC activity there is a corresponding test activity”. In which SDLC models does this rule hold?",
+            "answers": ["Only in sequential SDLC models", 
+            "Only in iterative SDLC models", 
+            "Only in iterative and incremental SDLC models", 
+            "In sequential, incremental, and iterative SDLC models"],
+            "correct": [3]
+        },
+        {
+            "question": "Which of the following statements BEST describes the acceptance test-driven development (ATDD) approach?",
+            "answers": ["In ATDD, acceptance criteria are typically created based on the given/when/then format ", 
+            " In ATDD, test cases are mainly created at component testing and are code-oriented", 
+            "In ATDD, tests are created, based on acceptance criteria to drive the development of the related software", 
+            "In ATDD, tests are based on the desired behavior of the software, which makes it easier for team members to understand them"],
+            "correct": [2]
+        },
+        {
+            "question": "Which of the following is NOT an example of the shift left approach?",
+            "answers": ["Reviewing the user requirements before they are formally accepted by the stakeholders", "Writing a component test before the corresponding code is written ", "Executing a performance efficiency test for a component during component testing", "Writing a test script before setting up the configuration management process"],
+            "correct": [3]
+        },
+        {
+            "question": "",
+            "answers": ["", "", "", ""],
+            "correct": []
+        },
+        {
+            "question": "",
+            "answers": ["", "", "", ""],
+            "correct": []
+        },
+        {
+            "question": "",
+            "answers": ["", "", "", ""],
+            "correct": []
+        },
+        {
+            "question": "",
+            "answers": ["", "", "", ""],
+            "correct": []
+        },
+        {
+            "question": "",
+            "answers": ["", "", "", ""],
+            "correct": []
+        },
+        {
+            "question": "",
+            "answers": ["", "", "", ""],
+            "correct": []
+        },
+        {
+            "question": "",
+            "answers": ["", "", "", ""],
+            "correct": []
+        },
+        {
+            "question": "",
+            "answers": ["", "", "", ""],
+            "correct": []
+        },
+        {
+            "question": "",
+            "answers": ["", "", "", ""],
+            "correct": []
+        },
+        {
+            "question": "",
+            "answers": ["", "", "", ""],
+            "correct": []
+        },
+        {
+            "question": "",
+            "answers": ["", "", "", ""],
+            "correct": []
+        },
+        {
+            "question": "",
+            "answers": ["", "", "", ""],
+            "correct": []
+        },
+        {
+            "question": "",
+            "answers": ["", "", "", ""],
+            "correct": []
+        },
+        {
+            "question": "",
+            "answers": ["", "", "", ""],
+            "correct": []
+        },
+        {
+            "question": "",
+            "answers": ["", "", "", ""],
+            "correct": []
+        },
+        {
+            "question": "",
+            "answers": ["", "", "", ""],
+            "correct": []
+        },
+        {
+            "question": "",
+            "answers": ["", "", "", ""],
+            "correct": []
+        },
+        {
+            "question": "",
+            "answers": ["", "", "", ""],
+            "correct": []
+        },
+        {
+            "question": "",
+            "answers": ["", "", "", ""],
+            "correct": []
+        },
+        {
+            "question": "",
+            "answers": ["", "", "", ""],
+            "correct": []
+        },
+        {
+            "question": "",
+            "answers": ["", "", "", ""],
+            "correct": []
+        },
+        {
+            "question": "",
+            "answers": ["", "", "", ""],
+            "correct": []
+        },
+        {
+            "question": "",
+            "answers": ["", "", "", ""],
+            "correct": []
+        },
+        {
+            "question": "",
+            "answers": ["", "", "", ""],
+            "correct": []
+        },
+        {
+            "question": "",
+            "answers": ["", "", "", ""],
+            "correct": []
+        },
+        {
+            "question": "",
+            "answers": ["", "", "", ""],
+            "correct": []
+        },
+        {
+            "question": "",
+            "answers": ["", "", "", ""],
+            "correct": []
+        },
+        {
+            "question": "",
+            "answers": ["", "", "", ""],
+            "correct": []
+        }
+]
+
